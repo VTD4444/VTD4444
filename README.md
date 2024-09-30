@@ -6,7 +6,7 @@
   <h3 align="center">About me</h3>
 </p>
 <div align="center">
-- ✍ I am studying at Posts & Telecoms Institute of Technology.<br>
+- ✍ I am studying Multimedia Application Development at Posts & Telecoms Institute of Technology.<br>
 </div>
 <br />
 
