@@ -7,7 +7,6 @@
 </p>
 <div align="center">
 - ✍ I am studying at Posts & Telecoms Institute of Technology.<br>
-- 🎮 I want to become a game developer.
 </div>
 <br />
 
