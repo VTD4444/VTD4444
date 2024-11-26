@@ -33,6 +33,7 @@
   <img src="https://img.icons8.com/?size=512&id=NeNPFdj7MzXi&format=png" width="48" height="48"/>
   <img src="https://img.icons8.com/?size=512&id=13631&format=png" width="48" height="48"/>
   <img src="https://img.icons8.com/?size=512&id=108781&format=png" width="48" height="48"/>
+  <img src="https://icons8.com/icon/13679/java" width="48" height="48"/>
 </p>
 
 ## Activities:
