@@ -6,7 +6,8 @@
   <h3 align="center">About me</h3>
 </p>
 <div align="center">
-- ✍ I am studying Multimedia Application Development at Posts & Telecoms Institute of Technology.<br>
+- ✍ I am studying Multimedia Application Development at Posts & Telecoms Institute of Technology(PTIT).<br>
+- 👨🏻‍🎓 I will become a Fullstack Developer.<br>
 </div>
 <br />
 
@@ -26,13 +27,10 @@
 ## Skills:
 <p align="center">
   <img src="https://img.icons8.com/?size=512&id=39848&format=png" width="48" height="48"/>
-  <img src="https://img.icons8.com/?size=512&id=TpULddJc4gTh&format=png" width="48" height="48"/>
-  <img src="https://img.icons8.com/?size=512&id=Fycm8TUhWmFU&format=png" width="48" height="48"/>
-  <img src="https://img.icons8.com/?size=512&id=20909&format=png" width="48" height="48"/>
-  <img src="https://img.icons8.com/?size=512&id=21278&format=png" width="48" height="48"/>
-  <img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=l9a5tcSnBwcf&format=png&color=000000" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=jYQqxG8eyJ19&format=png&color=000000" width="48" height="48"/>
   <img src="https://img.icons8.com/?size=512&id=NeNPFdj7MzXi&format=png" width="48" height="48"/>
   <img src="https://img.icons8.com/?size=512&id=13631&format=png" width="48" height="48"/>
   <img src="https://img.icons8.com/?size=512&id=108781&format=png" width="48" height="48"/>
